@@ -1,11 +1,11 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: Madeline Hanitijo
+email: madeline.hanitijo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Illustrator, game dev, unwitting software dev
 baseurl:  # the subpath of your site, e.g. /blog/
 url: "https//ymorts.github.io"
-twitter_username: twitter_username
+twitter_username: _stormwhy
 github_username:  "ymorts"
 
 # Build settings
@@ -19,11 +19,10 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  portfolio:
+  illust:
     output: true
-    permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
-
-
+    permalink: /illust/:path/
+    sort_by: order
+  games:
+    output: true 
+    permalink: /games/:path/

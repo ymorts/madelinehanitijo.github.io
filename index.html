@@ -1,24 +1,19 @@
 ---
-layout: default
+layout: page
 ---
 
 <div class="header-bar">
-  <h1>*folio</h1>
-  <h2>simple whitespace theme</h2>
-  <br/>
-  <hr>
-  <br/>
+  <img class="center" src="{{ site.baseurl }}/img/sleepy-storm.gif" alt="" title="stormwhy creature"/>
+
+  <h1>Madeline Hanitijo</h1>
+  <h2>Illustrator, Game Developer</h2>
 </div>
-
-
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
+<center>Hi! I’m Madeline Hanitijo! I also go by stormwhy / stormy. 
+  I am a freelance illustrator and game developer, and I am currently studying 
+  New Media at Toronto Metropolitan University. </center>
+  <span class="contacticon center">
+    <a href="madeline.hanitijo@gmail.com"><i class="fa fa-envelope-square"></i></a>
+    <a href="https://ca.linkedin.com/in/madeline-hanitijo-a321a1245" ><i class="fa fa-linkedin-square"></i></a>
+    <a href="https://www.instagram.com/i.m_madeline/" target="_blank"><i class="fa fa-instagram"></i></a>
+    <a href="https://twitter.com/_stormwhy" target="_blank"><i class="fa fa-twitter-square"></i></a>
+  </span>
