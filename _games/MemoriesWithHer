@@ -3,7 +3,7 @@ layout: post
 title: Memories with Her
 date: 2023-11-13 14:00
 description: A Visual Novel about Grief
-img: /img/memories-thumbnail.jpg
+img: {{ site.baseurl }}/img/memories-thumbnail.jpg
 ---
 
 <div class="img_row">

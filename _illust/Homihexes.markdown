@@ -3,7 +3,7 @@ layout: post
 title: Homicide and Hexes
 date: 2023-11-25 14:00
 description: Character and Scene Illustration
-img: /img/homihexes_cover.jpg
+img: {{ site.baseurl }}/img/homihexes_cover.jpg
 ---
 
 <div class="img_row">

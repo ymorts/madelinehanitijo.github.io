@@ -3,7 +3,7 @@ layout: post
 title: A Date with Mu Min 
 date: 2021-02-05 14:00
 description: A Visual Novel about a bodyguard and a heiress
-img: /img/sheep-thumbnail.jpg
+img: {{ site.baseurl }}/img/sheep-thumbnail.jpg
 ---
 
 A Date with Mu Min is a visual novel about a young heiress who has a crush on her cyborg bodyguard. Illustration, story, writing, and programming were all done by me. 
