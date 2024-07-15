@@ -3,7 +3,7 @@ layout: post
 title: Music of an Immortal
 date: 2023-09-01 14:00
 description: Book Cover Design
-img: img/music_thumbnail.jpg
+img: /img/music_thumbnail.jpg
 ---
 
 <img class= "col half" src= "{{ site.baseurl }}/img/front_music.jpg" alt="" title="front cover"/>

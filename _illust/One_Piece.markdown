@@ -3,7 +3,7 @@ layout: post
 title: One Piece Keychains
 date: 2024-03-20 14:00
 description: Merchandise Design
-img: img/all_pirate.jpg
+img: /img/all_pirate.jpg
 ---
 
 <div class="img_row">
