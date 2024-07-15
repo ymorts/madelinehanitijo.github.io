@@ -2,7 +2,7 @@
 layout: post
 title: A Date with Mu Min 
 date: 2021-02-05 14:00
-description: A Visual Novel about a bodyguard and a heiress
+description: A Visual Novel about a heiress and her bodyguard
 img: /img/sheep-thumbnail.jpg
 ---
 
