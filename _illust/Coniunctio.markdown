@@ -3,7 +3,7 @@ layout: post
 title: Coniunctio
 date: 2024-01-15 14:00
 description: Page Illustration and Formatting 
-img: img/dia_thumbnail.jpg
+img: /img/dia_thumbnail.jpg
 ---
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" style="border: 1px solid lightgray; width: 100%; height: 400px;" src="https://heyzine.com/flip-book/ee851491a6.html"></iframe>
 Coniunctio is a Houseki no Kuni fanzine. I was chosen as a page illustrator, and later put the zine together as the mods had abandoned the project. 
