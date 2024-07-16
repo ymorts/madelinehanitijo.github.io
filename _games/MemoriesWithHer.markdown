@@ -7,7 +7,7 @@ img: /img/memories-thumbnail.jpg
 ---
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/memories_banner.jpg" alt="" title="Memories with Her Banner"/>
+	<a href="https://stormwhy.itch.io/memories-with-her" target="_blank"><img class="col three" src="{{ site.baseurl }}/img/memories_banner.jpg" alt="" title="Memories with Her Banner"/></a>
 </div>
 
 Memories with Her is a visual novel about a queer woman, Mei, reconciling with the death of her long-term girlfriend through revisiting locations significant to their relationship. This visual novel was created in a small team with the prompt of using contemporary artwork as inspiration. We chose Queering the Map and Untitled (Portrait of Ross in LA). 
@@ -31,17 +31,15 @@ Writing: Joanne Ammari, Trisha Parco, Madeline Hanitijo, Emalita Natividad
 <br>
 Background assets kindly provided by Noraneko Games, Gutari Nyanko, and @TidalBlossoms / Delphinium Interactive Games
 <br>
-<br>
 
-<img class="col two" src="{{ site.baseurl }}/img/go_lesbians.jpg" alt="" title="Everyone together!"/>
+<img class="col two" src="{{ site.baseurl }}/img/go_lesbians.jpg" alt="" title="Let's go lesbians!"/>
 <br>
 Memories with Her was my first time working on a game in a team, as well as the first visual novel I've produced with a full soundtrack and non-story, interactive elements! I learned a lot from this experience and I'm so proud of my team and I for creating this!
 
 <br>
-<br>
-<br>
 I played around with interactivity, creating 2 point and click minigames.
 <br>
-<img class="col half" src="{{ site.baseurl }}/img/funny_map.jpg" alt="" title="Everyone together!"/>
-<img class="col half" src="{{ site.baseurl }}/img/room.jpg" alt="" title="Luffy!"/>
-<br>
+<img class="col half" src="{{ site.baseurl }}/img/funny_map.jpg" alt="" title="Mei's map"/>
+<img class="col half" src="{{ site.baseurl }}/img/room.jpg" alt="" title="the depression room!"/>
+
+<h4><a href="https://stormwhy.itch.io/memories-with-her" target="_blank">Link to the game here!</a></h4>
