@@ -7,7 +7,7 @@ img: /img/music_thumbnail.jpg
 ---
 
 <img class= "col half" src= "{{ site.baseurl }}/img/front_music.jpg" alt="" title="front cover"/>
-<img class="col half" src="{{ site.baseurl }}/img/back_music.jpg" alt="" title="front cover"/>
+<img class="col half" src="{{ site.baseurl }}/img/back_music.jpg" alt="" title="back cover"/>
 
 I contributed to my friend Corwin's book - Music of an Immortal: Requiem with a front / back cover! Thank you Corwin for trusting me with this project.
 

@@ -19,7 +19,7 @@ I was in charge of creating the opening illustration to <i>Homicide and Hexes</i
 
 <div class="img_row">
 	<a href="{{ site.baseurl }}/img/before_cats.jpg">
-		<img class="col one" src="{{ site.baseurl }}/img/before_cats.jpg" alt="" title="example image"/>
+		<img class="col one" src="{{ site.baseurl }}/img/before_cats.jpg" alt="" title="before casting"/>
 	</a>
 
 	<a href="{{ site.baseurl }}/img/spell_cast.jpg">
