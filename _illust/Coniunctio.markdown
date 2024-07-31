@@ -26,12 +26,10 @@ I decided to draw Dia for my piece, as I was a big fan of their character journe
 
 <br>
 <h3>Formatting</h3>
-<br> 
-I took the initiative in compiling the work of all contributors into a digital PDF.
-
 <img class="col half" src="{{ site.baseurl }}/img/v1_fics.jpg" alt="" title="light mode"/>
 <img class="col half" src="{{ site.baseurl }}/img/v2_fics.jpg" alt="" title="dark mode"/>
-Playing around with fanfic layouts. I also illustrated the title frame.
+I took the initiative in compiling the work of all contributors into a digital PDF.
+I played around with fanfic layouts. I also illustrated the title frame.
 
 <img class="col half" src="{{ site.baseurl }}/img/gemblems_rough.jpg" alt="" title="initial sketch"/>
 
