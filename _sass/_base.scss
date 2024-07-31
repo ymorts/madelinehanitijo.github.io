@@ -33,9 +33,9 @@ $lime_green: #B7D12A;
 $purple: #B509AC;
 
 
-$grey-color-dark: #333;   /* footer */
+$grey-color-dark: #222222;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     #666;
+$text-color:     #31435e;
 
 /* Set theme color *************************/
 $theme-color:   $blue;
@@ -50,7 +50,7 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 100;
+    font-weight: 200;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
